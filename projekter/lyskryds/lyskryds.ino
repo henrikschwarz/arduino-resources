@@ -3,7 +3,7 @@
 
 int greenPin = 13; // Grøn port
 int yellowPin = 12; // Gul port
-int redPin = 9; // Rød port
+int redPin = 11; // Rød port
 
 int waitRed=10; // Rød ventetid
 int waitGreen=5; // Grøn ventetid
